@@ -1,0 +1,2 @@
+# TODO Tracker
+TODO Tracker is a simple go-based CLI application that allows developers to scan directories for TODO tags. This enables developers to know how many items are still needing completion/implementation.
